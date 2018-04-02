@@ -29,3 +29,33 @@ p::first-letter {
   left: 645px;
   font-size: 15px;
 }
+
+.topnav{
+  font-size: 12px;
+  position: absolute;
+  top: 20px;
+}
+
+.active{
+  position: absolute;
+  left: 10px;
+  color: black;
+}
+
+.active2{
+  position:absolute;
+  left: 50px;
+  color: black;
+}
+
+.active3{
+  position: absolute;
+  left: 1160px;
+  color: black;
+}
+
+.active4{
+  position: absolute;
+  left: 1200px;
+  color: black;
+}
