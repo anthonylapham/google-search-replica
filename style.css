@@ -70,28 +70,33 @@ p::first-letter {
   position: absolute;
   left: 10px;
   color: black;
+  /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active6 {
   position: absolute;
   left: 80px;
   color: black;
+/*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active7 {
   position: absolute;
   left: 1150px;
   color: black;
+/*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active8 {
   position: absolute;
   left: 1200px;
   color: black;
+/*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active9 {
   position: absolute;
   left: 1260px;
   color: black;
+/*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
