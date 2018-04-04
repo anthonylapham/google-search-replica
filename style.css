@@ -23,39 +23,75 @@ p::first-letter {
   font-size: 15px;
 }
 
-.input3{
+.input3 {
   position: absolute;
   top: 400px;
   left: 645px;
   font-size: 15px;
 }
 
-.topnav{
+.topnav {
   font-size: 12px;
   position: absolute;
   top: 20px;
 }
 
-.active{
+.active {
   position: absolute;
   left: 10px;
   color: black;
 }
 
-.active2{
-  position:absolute;
+.active2 {
+  position: absolute;
   left: 50px;
   color: black;
 }
 
-.active3{
+.active3 {
   position: absolute;
   left: 1160px;
   color: black;
 }
 
-.active4{
+.active4 {
   position: absolute;
   left: 1200px;
+  color: black;
+}
+
+.bottomnav{
+  font-size: 12px;
+  position: absolute;
+  top: 600px;
+}
+
+.active5{
+  position: absolute;
+  left: 10px;
+  color: black;
+}
+
+.active6{
+  position: absolute;
+  left: 80px;
+  color: black;
+}
+
+.active7{
+  position: absolute;
+  left: 1150px;
+  color: black;
+}
+
+.active8{
+  position: absolute;
+  left: 1200px;
+  color: black;
+}
+
+.active9{
+  position: absolute;
+  left: 1260px;
   color: black;
 }
