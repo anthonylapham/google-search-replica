@@ -60,37 +60,37 @@ p::first-letter {
   color: black;
 }
 
-.bottomnav{
+.bottomnav {
   font-size: 12px;
   position: absolute;
   top: 600px;
 }
 
-.active5{
+.active5 {
   position: absolute;
   left: 10px;
   color: black;
 }
 
-.active6{
+.active6 {
   position: absolute;
   left: 80px;
   color: black;
 }
 
-.active7{
+.active7 {
   position: absolute;
   left: 1150px;
   color: black;
 }
 
-.active8{
+.active8 {
   position: absolute;
   left: 1200px;
   color: black;
 }
 
-.active9{
+.active9 {
   position: absolute;
   left: 1260px;
   color: black;
