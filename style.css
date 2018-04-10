@@ -17,12 +17,12 @@ p::first-letter {
   left: 389px;
 }
 
-#mic{
+#mic {
   position: absolute;
-  top:360px;
+  top: 360px;
   left: 870px;
   font-size: 20px;
-  color:  #4885ed;
+  color: #4885ed;
 }
 
 .input2 {
@@ -64,19 +64,19 @@ p::first-letter {
 .active2 {
   position: absolute;
   left: 50px;
-  color:  #606060;
+  color: #606060;
 }
 
 .active3 {
   position: absolute;
   left: 1160px;
-  color:  #606060;
+  color: #606060;
 }
 
 .active4 {
   position: absolute;
   left: 1200px;
-  color:  #606060;
+  color: #606060;
 }
 
 #notification {
@@ -85,7 +85,7 @@ p::first-letter {
   font-size: 18px;
 }
 
-#user{
+#user {
   position: absolute;
   left: 1300px;
   font-size: 22px;
@@ -100,34 +100,34 @@ p::first-letter {
 .active5 {
   position: absolute;
   left: 10px;
-  color:  #606060;
+  color: #606060;
   /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active6 {
   position: absolute;
   left: 80px;
-  color:  #606060;
+  color: #606060;
   /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active7 {
   position: absolute;
   left: 1150px;
-  color:  #606060;
+  color: #606060;
   /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active8 {
   position: absolute;
   left: 1200px;
-  color:  #606060;
+  color: #606060;
   /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
 
 .active9 {
   position: absolute;
   left: 1260px;
-  color:  #606060;
+  color: #606060;
   /*box-shadow: 100px 100px 100px 100px #C0C0C0;*/
 }
