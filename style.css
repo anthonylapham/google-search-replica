@@ -7,7 +7,8 @@ p {
 }
 
 p::first-letter {
-  color: #3369E8;
+  color: #4885ed;
+  font-family: sans-serif;
 }
 
 .input1 {
@@ -21,7 +22,7 @@ p::first-letter {
   top:360px;
   left: 870px;
   font-size: 20px;
-  color: #3369E8;
+  color:  #4885ed;
 }
 
 .input2 {
