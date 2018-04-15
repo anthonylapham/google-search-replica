@@ -35,6 +35,11 @@ p::first-letter {
   background: #f2f2f2;
   font-weight: bold;
   color: #757575;
+  opacity: 0.8;
+}
+
+.input2:hover {
+  opacity: 1;
 }
 
 .input3 {
@@ -47,6 +52,11 @@ p::first-letter {
   background: #f2f2f2;
   font-weight: bold;
   color: #757575;
+  opacity: .8;
+}
+
+.input3:hover {
+  opacity: 1;
 }
 
 .topnav {
