@@ -2,6 +2,7 @@ p {
   text-align: center;
   font-size: 100px;
   position: absolute;
+  position: fixed;
   top: 200px;
   left: 480px;
 }
@@ -15,10 +16,12 @@ p::first-letter {
   position: absolute;
   top: 350px;
   left: 389px;
+  position: fixed;
 }
 
 #mic {
   position: absolute;
+  position: fixed;
   top: 360px;
   left: 870px;
   font-size: 20px;
@@ -27,6 +30,7 @@ p::first-letter {
 
 .input2 {
   position: absolute;
+  position: fixed;
   overflow: hidden;
   border-style: solid;
   top: 400px;
@@ -44,6 +48,7 @@ p::first-letter {
 
 .input3 {
   position: absolute;
+  position: fixed;
   overflow: hidden;
   border-style: solid;
   top: 400px;
@@ -63,6 +68,7 @@ p::first-letter {
   font-size: 12px;
   position: absolute;
   top: 20px;
+  position: fixed;
 }
 
 .active {
@@ -104,6 +110,7 @@ p::first-letter {
 .bottomnav {
   font-size: 12px;
   position: absolute;
+  position: fixed;
   top: 600px;
   background: #f2f2f2;
   border-top: 1px solid #e4e4e4;
